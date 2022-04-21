@@ -1,0 +1,7 @@
+C:\Users\wangl\source\repos\TransformSystem\TransformSystem\bin\Debug\TransformSystem.exe.config
+C:\Users\wangl\source\repos\TransformSystem\TransformSystem\bin\Debug\TransformSystem.exe
+C:\Users\wangl\source\repos\TransformSystem\TransformSystem\bin\Debug\TransformSystem.pdb
+C:\Users\wangl\source\repos\TransformSystem\TransformSystem\obj\Debug\TransformSystem.csproj.AssemblyReference.cache
+C:\Users\wangl\source\repos\TransformSystem\TransformSystem\obj\Debug\TransformSystem.csproj.CoreCompileInputs.cache
+C:\Users\wangl\source\repos\TransformSystem\TransformSystem\obj\Debug\TransformSystem.exe
+C:\Users\wangl\source\repos\TransformSystem\TransformSystem\obj\Debug\TransformSystem.pdb
